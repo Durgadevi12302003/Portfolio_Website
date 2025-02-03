@@ -6,15 +6,15 @@ Welcome to my digital portfolio! This project showcases my skills, experience, a
 
 ## 📂 Table of Contents
 
-** About Me **
+ About Me 
 
-** Experience **
+ Experience 
 
-** Education **
+ Education 
 
-** Skills **
+ Skills 
 
-** Projects **
+ Projects 
 
 
 ## 👩‍💻 About Me
@@ -25,17 +25,17 @@ Hello, I'm Durgadevi, a passionate Machine Learning Engineer and Web Developer. 
 
 Internships:
 
-** 🏢 Retech Solution Pvt. Ltd. - Machine Learning **
+ 🏢 Retech Solution Pvt. Ltd. - Machine Learning 
 
-** 🏢 Octanet Services Pvt. Ltd. - Web Development **
+ 🏢 Octanet Services Pvt. Ltd. - Web Development 
 
-** 🏢 Le Meniz Technology Pvt. Ltd. - Web Development **
+ 🏢 Le Meniz Technology Pvt. Ltd. - Web Development 
 
-🎓 Education
+## 🎓 Education
 
 🎓 B.Tech in Artificial Intelligence and Machine LearningSt. Joseph's College of Engineering
 
-🛠 Skills
+## 🛠 Skills
 
 Machine Learning
 
@@ -61,48 +61,40 @@ Web Development
 
 🔗 Git (Intermediate)
 
-🚀 Projects
+## 🚀 Projects
 
 1. Real-Time Sign Language Gesture Recognition
 
 Developed a system that translates sign language gestures into text using machine learning.
 
-🔗 GitHub Repository
 
 2. Movie Recommendation System
 
 Implemented a recommendation system using cosine similarity.
 
-🔗 GitHub Repository
-
 3. Digital Portfolio
 
 This project showcases my professional experience and projects.
 
-🔗 GitHub Repository
-
+ 
 4. Sentiment Analysis
 
 Built a model to analyze and classify sentiments from text data.
 
-🔗 GitHub Repository
-
+ 
 5. Static E-Commerce Website
 
 Designed a responsive e-commerce website using HTML, CSS, and JavaScript.
 
-🔗 GitHub Repository
-
+ 
 6. To-Do List Webpage
 
 Created a web-based task management system.
 
-🔗 GitHub Repository
+ 
 
-📞 Contact
+## Contact
 
 📧 Email: durgadevi12302003@gmail.com
 
-🔗 LinkedIn: My LinkedIn Profile
-
-💻 GitHub: My GitHub Profile
+💻 GitHub: https://github.com/Durgadevi12302003
